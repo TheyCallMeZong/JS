@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2042e3a-8a6d-4c1f-b6d7-1f5fc34bcdea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H1/Lesson1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/H2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/H2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="H2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/H2/H2.js" working-dir="$PROJECT_DIR$/H2">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.H2.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +59,9 @@
       <option name="presentableId" value="Default" />
       <updated>1624388185780</updated>
       <workItem from="1624388200304" duration="1892000" />
+      <workItem from="1625033651272" duration="297000" />
+      <workItem from="1625033957971" duration="8000" />
+      <workItem from="1625034007893" duration="4180000" />
     </task>
     <servers />
   </component>
@@ -63,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
