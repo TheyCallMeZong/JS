@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2042e3a-8a6d-4c1f-b6d7-1f5fc34bcdea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H1/Lesson1.html" afterDir="false" />
+    <list default="true" id="74f41ebb-e6f5-4c22-ad31-c42179aed725" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/H5/H5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/H5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/Style/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,15 +15,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1uJeap9hZpgj8W3OT17oJd7J0RN" />
+  <component name="ProjectId" id="1vYuqpltwbduoGyMLPifFsLsJmB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -41,12 +45,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d2042e3a-8a6d-4c1f-b6d7-1f5fc34bcdea" name="Default Changelist" comment="" />
-      <created>1624388185780</created>
+      <changelist id="74f41ebb-e6f5-4c22-ad31-c42179aed725" name="Default Changelist" comment="" />
+      <created>1626751561676</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1624388185780</updated>
-      <workItem from="1624388200304" duration="1892000" />
+      <updated>1626751561676</updated>
+      <workItem from="1626751582509" duration="4537000" />
     </task>
     <servers />
   </component>
